@@ -1,3 +1,3 @@
 # TimerCTR
 
-TimerCTR is a tool used to create completely free custom timers, it is important to read the README to be able to use the tool.
+Questo è il source code per questo tool, per vedere come funziona e scaricare l'exe vai qui -->
